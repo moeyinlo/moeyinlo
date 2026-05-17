@@ -33,7 +33,7 @@ Kotlin enthusiatic and full stack developer
 
 #### Tech stacks
 
-<div>
+<div style="background: white">
 <img src="eclipsevertdotx.svg" width=40 height=40  fill=#782A90/>&nbsp;
 <img src="vulkan.svg" width=40 height=40  fill=#A41E22/>&nbsp;
 <img src="opengl.svg" width=40 height=40  fill=#5586A4/>&nbsp;
