@@ -41,7 +41,7 @@ Kotlin enthusiatic and full stack developer
 <img src="intellijidea.svg" width=40 height=40  fill="white"/>&nbsp;
 <img src="dotnet.svg" width=40 height=40  fill=#512BD4/>&nbsp;
 <img src="cplusplus.svg" width=40 height=40  fill=#00599C/>&nbsp;
-<img src="rust.svg" width=40 height=4 fill=white/>&nbsp;
+<img src="rust.svg" width=40 height=40 fill=white/>&nbsp;
 <img src="vuedotjs.svg" width=40 height=40  fill=#4FC08D/>&nbsp;
 <img src="apachespark.svg" width=40 height=40  fill=#E25A1C/>&nbsp;
 <img src="scala.svg" width=40 height=40  fill=#DC322F/>&nbsp;
