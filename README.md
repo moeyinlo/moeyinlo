@@ -17,7 +17,7 @@ Kotlin enthusiatic and full stack developer
 
 [Solide](https://github.com/Origin-Technology/Solide)(private): Heavy duty JVM bytecode obfuscator
 
-[Perlica](https://github.com/Origin-Technology/Perlica)(private): Unpacking/decrypting and crypto/network/authentication protocol reverse engineering for Arknights: Endfield, with chat bot add-on</p>*`(Not affiliated to Hypergryph or Gryphline)`*
+[Perlica](https://github.com/Origin-Technology/Perlica): Chatbot for Arknights: Endfield</p>*`(Not affiliated to Hypergryph or Gryphline)`*
 
 [SafeSave](https://github.com/Origin-Technology/SafeSave-Fabric)(private): Leveraging modern cryptography to protect Minecraft saves
 
