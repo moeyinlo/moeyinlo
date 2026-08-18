@@ -15,13 +15,13 @@ Kotlin enthusiatic and full stack developer
 
 #### Working on projects
 
-[Solide](https://github.com/Origin-Technology/Solide)(private): Heavy duty JVM bytecode obfuscator
+[Solide](https://github.com/Origin-Technology/Solide): Heavy duty JVM bytecode obfuscator
 
 [Perlica](https://github.com/Origin-Technology/Perlica): Chatbot for Arknights: Endfield</p>*`(Not affiliated to Hypergryph or Gryphline)`*
 
-[SafeSave](https://github.com/Origin-Technology/SafeSave-Fabric)(private): Leveraging modern cryptography to protect Minecraft saves
+[SafeSave](https://github.com/Origin-Technology/SafeSave-Fabric): Leveraging modern cryptography to protect Minecraft saves
 
-[XenonAuth](https://github.com/Origin-Technology/XenonAuth) [OriginService](https://github.com/Origin-Technology/OriginService)(private): Unified authentication system with OAuth2 support
+[XenonAuth](https://github.com/Origin-Technology/XenonAuth) [OriginService](https://github.com/Origin-Technology/OriginService): Unified authentication system with OAuth2 support
 
 [Gruntpocalypse](https://github.com/SpartanB312/Grunt): Lightweight and stable JVM bytecode obfuscator
 
@@ -29,7 +29,7 @@ Kotlin enthusiatic and full stack developer
 
 [Caelum](https://github.com/Echonolix/caelum): Idiomatic native access for kotlin/jvm
 
-[Recaf-fork](https://github.com/xiguajerry/Recaf)(archived): Enhanced fork of Recaf-2.x
+[Recaf-fork](https://github.com/xiguajerry/Recaf): Enhanced fork of Recaf-2.x
 
 #### Tech stacks
 
